@@ -3,3 +3,6 @@
 ## This is the first project I am learning Git !!!
 
 ### so hard.. but is ok
+
+*Nicha need to sleep
+*Nicha crying
