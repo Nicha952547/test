@@ -6,3 +6,5 @@
 
 1 Nicha need to eat
 2 Nicha Don't want to be fat
+*Nicha need to sleep
+*Nicha crying
